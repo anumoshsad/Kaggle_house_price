@@ -1,4 +1,9 @@
-Files: 
+## House Price Prediction
+This is the project I have done as a requirement of my Data Mining courser at University of rochester. Thre pdf file contains the main report of the project.
+
+
+## Files: 
+
 1. CodeFiles contains all the codes we used. 
 	- clean_preprocess.py 
 		process the data save it in new data file train_x.csv, test_x.csv, log1p_train_y.csv
